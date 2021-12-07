@@ -46,7 +46,7 @@ Murine mesangial, endothelial cells and podocytes were isolated by timMEP. C57BL
 <br>
 
 <font size = +1> <strong>
-More info about the app can be found on <a href = https://github.com/LenaBonin73/PodIdentApp> https://github.com/LenaBonin73/PodIdentApp </a> </strong> </font> <br>
+More info about the app can be found on <a href = https://github.com/LenaBonin73/PodIdentApp> https://github.com/LenaBonin/PodIdentApp </a> </strong> </font> <br>
 <br>")
   )
   
