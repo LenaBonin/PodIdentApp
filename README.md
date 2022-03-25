@@ -1,5 +1,5 @@
 # PodIdentApp
-Repository of the PodIdent app
+Repository of the PodIdent app https://kidneyapp.shinyapps.io/podIdent/
 
 PodIdent app is an R shiny application made to visualize, explore and compare data from different studies about podocytes. <br>
 ## The user can :
